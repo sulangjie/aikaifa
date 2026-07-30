@@ -1,0 +1,46 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Coverage
+coverage/
+*.lcov
+
+# Cache
+.cache/
+*.cache
